@@ -69,7 +69,7 @@ React components for faster and easier web development
 #### [Flyon UI](https://flyonui.com/)
 _<sup>https://github.com/themeselection/flyonui</sup>_
 
-It has over 78+ components & examples & built with DaisyUI & Preline.
+The Easiest Components Library For Tailwind CSS.
 * **tags**: [tailwind-css](../tagged/tailwindcss.md), [tailwind-css-components](../tagged/tailwind-css-components.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/themeselection/flyonui)**
 ---
