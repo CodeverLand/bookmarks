@@ -66,6 +66,13 @@ React components for faster and easier web development
 * **tags**: [reactjs](../tagged/reactjs.md), [react-component](../tagged/react-component.md), [libraries](../tagged/libraries.md)
 * :octocat: **[source code](https://github.com/mui-org/material-ui)**
 ---
+#### [Flyon UI](https://flyonui.com/)
+_<sup>https://github.com/themeselection/flyonui</sup>_
+
+The Easiest Components Library For Tailwind CSS.
+* **tags**: [tailwind-css](../tagged/tailwindcss.md), [tailwind-css-components](../tagged/tailwind-css-components.md), [libraries](../tagged/libraries.md)
+* :octocat: **[source code](https://github.com/themeselection/flyonui)**
+---
 #### [ant-design](https://github.com/ant-design/ant-design)
 _<sup>https://github.com/ant-design/ant-design</sup>_
 
