@@ -139,7 +139,7 @@ Your daily injection of npm packages.
 * **tags**: [node.js](../tagged/node.js.md), [discovery](../tagged/discovery.md)
 ---
 #### [npm-compare.com](https://npm-compare.com)
-_<sup>https://npmcompare.com</sup>_
+_<sup>https://npm-compare.com</sup>_
 
 Compare and discover npm packages.
 * **tags**: [node.js](../tagged/node.js.md), [discovery](../tagged/discovery.md)
