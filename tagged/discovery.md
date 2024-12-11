@@ -138,7 +138,7 @@ _<sup>https://npmaddict.com</sup>_
 Your daily injection of npm packages.
 * **tags**: [node.js](../tagged/node.js.md), [discovery](../tagged/discovery.md)
 ---
-#### [npmcompare.com](https://npmcompare.com)
+#### [npm-compare.com](https://npm-compare.com)
 _<sup>https://npmcompare.com</sup>_
 
 Compare and discover npm packages.
